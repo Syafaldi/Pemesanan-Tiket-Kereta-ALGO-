@@ -7,5 +7,4 @@ Ini tugas projek praktikum algoritma pemesanan tiket kereta
 
 -Untuk Melihat tiket yang sudah dipesan,ke menu 3(Pemesanan Tiket lalu ke 2(Lihat Tiket yang sudah dipesan)
 
--Fitur Penghapusan tiket belum slesai hehe
 
